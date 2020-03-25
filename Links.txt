@@ -1,0 +1,28 @@
+https://www.cfa.harvard.edu/~avanderb/k2.html
+
+https://www.cfa.harvard.edu/~avanderb/tutorial/tutorial.html
+
+http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html
+
+http://www.planetary.org/explore/space-topics/exoplanets/microlensing.html
+
+http://www.planetary.org/explore/space-topics/exoplanets/transit-photometry.html
+
+http://www.planetary.org/explore/space-topics/exoplanets/radial-velocity.html
+
+
+
+
+Good Source for a different Attempt: https://medium.com/@gabogarza/exoplanet-hunting-with-machine-learning-and-kepler-data-recall-100-155e1ddeaa95
+Github for it: https://github.com/gabrielgarza/exoplanet-deep-learning/blob/master/README.md
+Website with the data: https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data/data#exoTrain.csv
+
+
+API To Get Data?: https://mast.stsci.edu/api/v0/
+
+
+How to download light curve for any star, given EPIC #
+https://archive.stsci.edu/k2/download_options.html
+
+BJD explanation
+http://astroutils.astronomy.ohio-state.edu/time/bjd_explanation.html

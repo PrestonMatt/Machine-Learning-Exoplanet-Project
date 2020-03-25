@@ -1,0 +1,7 @@
+1. kaggle dataset does not provide timestamps. 
+	1a does uneven time spacing affect our model? (prob not by much)
+	1b what approach did kaggle use to format this data?
+		see their github https://github.com/winterdelta/KeplerAI
+	ANSWER: we'll probably assume timestamps are roughly evenly spaced and just ignore them, as the Kaggle people did
+
+2. kaggle data is NOT normalized
